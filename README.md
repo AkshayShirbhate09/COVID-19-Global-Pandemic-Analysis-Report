@@ -1,4 +1,4 @@
-# COVID-19-Global-Pandemic-Analysis-Report
+# COVID-19 Global Pandemic Analysis Report
 
 ![covid  analysis](https://github.com/AkshayShirbhate09/COVID-19-Global-Pandemic-Analysis-Report/assets/161019134/5d9e913b-a611-4980-acd3-6739a476540c)
 
