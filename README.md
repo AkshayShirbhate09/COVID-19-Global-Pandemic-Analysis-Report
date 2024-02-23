@@ -1,5 +1,5 @@
 # COVID-19-Global-Pandemic-Analysis-Report
-
+[covid  analysis.pdf](https://github.com/AkshayShirbhate09/COVID-19-Global-Pandemic-Analysis-Report/files/14385200/covid.analysis.pdf)
 🌟 **Introduction:**
 
 In the midst of the Covid-19 pandemic, understanding the impact of the virus has been crucial. However, getting a clear picture of Covid-19 data hasn't always been easy. That's why we created a Power BI report to help people like you understand Covid-19 data better. Our report dives into the effects of Covid-19, such as how many people got sick, how many recovered, and sadly, how many lost their lives.
@@ -30,4 +30,4 @@ Our goal was to provide everyone with a clear picture of what happened with Covi
   2. **Simplified Understanding:** By using visualizations and simple language, we made the data easy to comprehend for everyone.
   3. **Strategic Planning:** The insights from our report enabled stakeholders to plan and allocate resources effectively in response to the pandemic.
 
-[covid  analysis.pdf](https://github.com/AkshayShirbhate09/COVID-19-Global-Pandemic-Analysis-Report/files/14385200/covid.analysis.pdf)
+
