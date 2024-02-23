@@ -29,3 +29,5 @@ Our goal was to provide everyone with a clear picture of what happened with Covi
   1. **Informed Decision-Making:** Our report provided valuable insights to decision-makers, helping them understand the situation and make informed choices.
   2. **Simplified Understanding:** By using visualizations and simple language, we made the data easy to comprehend for everyone.
   3. **Strategic Planning:** The insights from our report enabled stakeholders to plan and allocate resources effectively in response to the pandemic.
+
+[covid  analysis.pdf](https://github.com/AkshayShirbhate09/COVID-19-Global-Pandemic-Analysis-Report/files/14385200/covid.analysis.pdf)
