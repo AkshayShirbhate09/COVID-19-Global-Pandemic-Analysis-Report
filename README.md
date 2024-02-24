@@ -14,16 +14,28 @@ Our goal was to provide everyone with a clear picture of what happened with Covi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 **Approach for Report:**
 
-  1. **Data Collection:** We collected different types of Covid-19 data from reliable sources to understand the impact of the virus.
-  2. **Creating the Report:** Using Power BI, we developed a report that presents the data in an easy-to-understand format. We focused on creating visualizations that simplify complex information.
-  3. **Identifying Key Insights:** We analyzed the data to uncover important trends, such as the number of cases, recoveries, and deaths in different regions.
+   1. Data Collection 📊:
+    - I gathered different types of Covid-19 data from trusted sources. This included numbers of cases, recoveries, deaths, and more. I wanted to understand how the virus is affecting different places.
+
+  2. Data Cleaning 🧹:
+    - After gathering the data, I made sure it was accurate and tidy. I checked for any mistakes or missing information and fixed them.
+
+  3. Data Visualization 📊:
+    - Using Power BI, I made a report that shows the Covid-19 data in easy-to-understand pictures and graphs. I wanted to make it simple for people to see what's going on.
+
+  4. Identifying Key Insights 🔍:
+    - I looked at the cleaned data closely to find important things, like where the virus is spreading the most and how many people are getting better or worse. This helps us understand what's happening and make better decisions.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💡 **Questions or Findings We Looked For:**
 
-  1. We wanted to understand the trends in Covid-19 cases and their impact globally.
-  2.  We explored the number of recoveries and deaths to assess the overall situation.
-  3.  We sought to identify key insights to help stakeholders make informed decisions.
+  1. How does the population distribution across regions correlate with the total number of Covid-19 cases?
+  2. Which countries exhibit the highest number of deaths in relation to their population size?
+  3. Can we identify any patterns or trends in the distribution of total deaths among different countries?
+  4. How do the numbers of total cases, active cases, total recoveries, and critical cases vary across different regions?
+  5. Which regions demonstrate the highest proportion of critical cases relative to their total number of cases?
+  6. Are there any notable differences in the distribution of total cases and total deaths among various countries?
+  7. How does the number of total recoveries compare to the total number of cases in different regions?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ **How It Was Useful:**
