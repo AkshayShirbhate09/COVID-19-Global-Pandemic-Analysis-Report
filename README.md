@@ -38,6 +38,15 @@ Our goal was to provide everyone with a clear picture of what happened with Covi
   7. How does the number of total recoveries compare to the total number of cases in different regions?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+📊 **Visuals Used:**
+
+   1. 🧮 Slicer
+   2. 🗺️ Map Visual
+   3. 🧮 Slicer
+   4. 🍩 Donut Chart
+   5. 📊 Matrix Visual
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ✅ **How It Was Useful:**
 
   1. **Informed Decision-Making:** Our report provided valuable insights to decision-makers, helping them understand the situation and make informed choices.
